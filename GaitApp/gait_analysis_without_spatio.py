@@ -14,8 +14,8 @@ import tempfile
 
 from matplotlib import pyplot as plt
 from scipy.signal import butter, filtfilt
-from gait_cycle_segmentation import find_peaks_and_valleys
-from gait_segmentation import display_gait_cycles_plots
+#from gait_cycle_segmentation import find_peaks_and_valleys
+#from gait_segmentation import display_gait_cycles_plots
 # from spatiotemporal_parameters import stance_phase, velocity, LRcadence, step_length
 # from calibration import get_calibration_ratio
 

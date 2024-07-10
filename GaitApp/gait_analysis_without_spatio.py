@@ -4,10 +4,6 @@ Created on Tue Jul  2 14:20:40 2024
 
 @author: Xi Gao and Xingye
 """
-import os
-# 安装缺少的libGL库
-os.system('apt-get update && apt-get install -y libgl1-mesa-glx')
-
 import streamlit as st
 import cv2
 import mediapipe as mp
